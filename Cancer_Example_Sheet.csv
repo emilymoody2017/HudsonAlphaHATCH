@@ -1,0 +1,6 @@
+Patient Name,Alteration on BRCA1 Gene (Y/N),Alteration on BRCA2 Gene (Y/N),Age,Age menstruation started,Age menopause started,Taken combination HRT (Y/N),Taken estrogen-only HRT for 10+ years (Y/N),Taken diethylstillbestrol (Y/N),Mother taken diethylstillbestrol between 1940-1971 (Y/N),Age dense breast tissue was found,Age first child was born,Ethnicity:,Cancer history (cancer names)
+Emily,N,Y,45,13,N/A,N,N,Y,N,40,22,White,prostate
+Meggie,Y,Y,56,14,55,N,N,N,N,46,19,Asian,ovarian
+Madeline,N,N,18,13,N/A,N,N,N,N,N/A,N/A,Black,none
+Amy,yes,yea,64,11,56,y,y,no,no,45,36,pacific islander,lymphoma
+peg,n,nope,14,13,n/a,n,n,n,n,n/a,n/a,white,none
